@@ -12,11 +12,13 @@
 
 ## 🌿 About
 
-Tech 4 Fertility builds free and open-source software for people who use natural family planning and fertility awareness methods. Our tools are **self-hostable**, **privacy-by-design**, and **local-first**: your health data belongs to you.
+> **T4F** = Tech 4 Fertility · **MCA** = moncycle.app
+
+Tech 4 Fertility (T4F) builds free and open-source software for people who use natural family planning and fertility awareness methods. Our tools are **self-hostable**, **privacy-by-design**, and **local-first**: your health data belongs to you.
 
 ## 📱 Moncycle.app
 
-Our flagship project is [Moncycle.app](https://moncycle.app), a menstrual cycle tracking app designed for natural birth control methods (aka natural family planning).
+Our flagship project is [Moncycle.app](https://moncycle.app) (MCA), a menstrual cycle tracking app designed for natural birth control methods (aka natural family planning).
 
 | Project | Description |
 | --- | --- |
